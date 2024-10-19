@@ -13,6 +13,6 @@ class LoginViewController : UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad() 
         
-        view.backgroundColor = .blue
+        view.backgroundColor = .systemGreen
     }
 }
